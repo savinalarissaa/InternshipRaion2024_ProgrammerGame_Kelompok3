@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Attack
+  - Empty
+  - Ladder
+  - Key
+  - Movable Block
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 306786337
+    locked: 0
+  - name: Decorations
+    uniqueID: 2181914459
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: OnTop
+    uniqueID: 3032404179
+    locked: 0
